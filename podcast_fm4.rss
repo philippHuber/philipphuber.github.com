@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Philipp Huber - Podcast</title>
+<description>ein Rss - File von meinem lieblings Podcast</description>
+<language>de-de</language>
+<pubDate>Wed, 05 May 2010</pubDate>
+
+<item>
+<title>fm4.ORF.at/Soundpark</title>
+<description>Angespielt: Fuenf Mann aus Wattens spielen Gitarrensound von funky bis ruhig bis hart. Update!</description>
+<link>http://www.soundpark.at/mp3/2010-05/anoroc_each_his_own_221716.mp3?via=podcast</link>
+<author>Huber Philipp</author>
+<category>Podcasts</category>
+</item>
+
+</channel>
+</rss>
